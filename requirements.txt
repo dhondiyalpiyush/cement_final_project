@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+scikit-learn
+seaborn
+jupyter
+streamlit
+gunicorn 
+-e .
